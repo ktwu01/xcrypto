@@ -2,3 +2,4 @@
 **/*.db
 *.db
 **/algo
+.DS_Store
